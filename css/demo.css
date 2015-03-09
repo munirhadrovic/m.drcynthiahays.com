@@ -87,7 +87,7 @@ a{
 	line-height: 35px;
 	position: relative;
 	font-weight: 400;
-	color: #fff;
+	color: #4ea920;
 	text-shadow: 1px 1px 1px rgba(0,0,0,0.3);
     padding: 0px 0px 5px 0px;
 }
@@ -164,10 +164,10 @@ p.codrops-demos a.current-demo:hover{
 	background:rgba(38, 37, 33, 0.27);
 }
 p.codrops-demos a:hover{
-	background:#007919;
+	background: #70c8ff;
 }
 .findusdugme:hover{
-	background:#007919;
+	background: #70c8ff;
 }
 p.codrops-demos a:active{
 	background: #6d0019;
@@ -180,7 +180,7 @@ p.codrops-demos a:active{
 	-webkit-box-shadow: 0px 1px 1px rgba(255,255,255,0.9);
 	-moz-box-shadow:0px 1px 1px rgba(255,255,255,0.9);
 	box-shadow: 0px 1px 1px rgba(255,255,255,0.9);
-	background: #007919;
+	background: #2899d3;
 }
 p.codrops-demos a.current-demo,
 p.codrops-demos a.current-demo:hover{
